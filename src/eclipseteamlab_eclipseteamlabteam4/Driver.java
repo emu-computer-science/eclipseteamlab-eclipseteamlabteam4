@@ -9,6 +9,7 @@ public static void main(String[] args) {
 		Glad.glad();
 		Sad.sad();
 		Hungry.hungry();
+		Hungry.celebrate();
 	}
 
 }
