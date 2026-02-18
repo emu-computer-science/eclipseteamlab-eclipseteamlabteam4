@@ -4,5 +4,9 @@ public class Sad {
 		System.out.println("We are all sad");
 		
 	}
+	
+	public static void cry() {
+		System.out.println("We are crying");
+	}
 
 }
