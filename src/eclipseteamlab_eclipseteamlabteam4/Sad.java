@@ -1,5 +1,3 @@
-package eclipseteamlab_eclipseteamlabteam4;
-
 public class Sad {
 	
 	public static void sad() {
